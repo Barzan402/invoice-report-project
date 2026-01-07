@@ -1,0 +1,14 @@
+# Eclipse metadata
+.classpath
+.project
+.settings/
+
+# Compiled output
+bin/
+target/
+
+# OS junk
+.DS_Store
+
+# Secrets
+.env
