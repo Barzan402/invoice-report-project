@@ -1,0 +1,92 @@
+[
+  {
+    "personUuid": "123e4567-e89b-12d3-a456-426614174000",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phone": "555-1234",
+    "emails": [
+      "john.doe@email.com"
+    ]
+  },
+  {
+    "personUuid": "234e5678-e89b-12d3-a456-426614174001",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "phone": "555-5678",
+    "emails": [
+      "jane.smith@email.com"
+    ]
+  },
+  {
+    "personUuid": "345e6789-e89b-12d3-a456-426614174002",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "phone": "555-9101",
+    "emails": [
+      "michael.johnson@email.com"
+    ]
+  },
+  {
+    "personUuid": "456e7890-e89b-12d3-a456-426614174003",
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "phone": "555-1122",
+    "emails": [
+      "emily.davis@email.com"
+    ]
+  },
+  {
+    "personUuid": "567e8901-e89b-12d3-a456-426614174004",
+    "firstName": "David",
+    "lastName": "Wilson",
+    "phone": "555-3344",
+    "emails": [
+      "david.wilson@email.com"
+    ]
+  },
+  {
+    "personUuid": "678e9012-e89b-12d3-a456-426614174005",
+    "firstName": "Emma",
+    "lastName": "Martinez",
+    "phone": "555-5566",
+    "emails": [
+      "emma.martinez@email.com"
+    ]
+  },
+  {
+    "personUuid": "789e0123-e89b-12d3-a456-426614174006",
+    "firstName": "James",
+    "lastName": "Brown",
+    "phone": "555-7788",
+    "emails": [
+      "james.brown@email.com"
+    ]
+  },
+  {
+    "personUuid": "890e1234-e89b-12d3-a456-426614174007",
+    "firstName": "Olivia",
+    "lastName": "Taylor",
+    "phone": "555-9900",
+    "emails": [
+      "olivia.taylor@email.com"
+    ]
+  },
+  {
+    "personUuid": "901e2345-e89b-12d3-a456-426614174008",
+    "firstName": "Daniel",
+    "lastName": "Anderson",
+    "phone": "555-2233",
+    "emails": [
+      "daniel.anderson@email.com"
+    ]
+  },
+  {
+    "personUuid": "012e3456-e89b-12d3-a456-426614174009",
+    "firstName": "Sophia",
+    "lastName": "Thomas",
+    "phone": "555-4455",
+    "emails": [
+      "sophia.thomas@email.com"
+    ]
+  }
+]

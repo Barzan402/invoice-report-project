@@ -1,0 +1,47 @@
+[
+  {
+    "modelNumber": "XC200",
+    "retailCost": 350000.0,
+    "uuid": "2a0bf7d0-c956-423c-bc35-6dc7e5a88b09",
+    "name": "Excavator"
+  },
+  {
+    "modelNumber": "CRX500",
+    "retailCost": 480000.0,
+    "uuid": "efd140db-c91c-4997-9081-3786917eb679",
+    "name": "Cranes"
+  },
+  {
+    "modelNumber": "FL250",
+    "retailCost": 18000.0,
+    "uuid": "7464e7c7-5b35-4074-97d3-96328252cb3b",
+    "name": "Forklift"
+  },
+  {
+    "modelNumber": "BH450",
+    "retailCost": 75000.0,
+    "uuid": "36809e58-0a08-416d-9b35-91cb2837f04b",
+    "name": "Backhoe"
+  },
+  {
+    "unit": "bag",
+    "pricePerUnit": 50.0,
+    "quantity": 0,
+    "uuid": "4efed16c-03e9-43ea-b2b7-3a9531b44cde",
+    "name": "Cement"
+  },
+  {
+    "unit": "ton",
+    "pricePerUnit": 1200.0,
+    "quantity": 0,
+    "uuid": "574cfde6-52e9-4c80-8cc7-3ba48d1b3e6d",
+    "name": "Steel Beams"
+  },
+  {
+    "unit": "sheet",
+    "pricePerUnit": 45.0,
+    "quantity": 0,
+    "uuid": "4e46d764-20df-4ec6-933f-f90472dbc7c3",
+    "name": "Wood Panels"
+  }
+]

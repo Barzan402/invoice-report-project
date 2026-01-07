@@ -1,0 +1,192 @@
+[
+  {
+    "uuid": "a1b2c3d4-e5f6-7890-ab12-cd34ef567890",
+    "contact": {
+      "personUuid": "123e4567-e89b-12d3-a456-426614174000",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "555-1234",
+      "emails": [
+        "john.doe@email.com"
+      ]
+    },
+    "name": "Tech Solutions",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    }
+  },
+  {
+    "uuid": "b2c3d4e5-f678-9012-ab34-cd56ef789012",
+    "contact": {
+      "personUuid": "234e5678-e89b-12d3-a456-426614174001",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "phone": "555-5678",
+      "emails": [
+        "jane.smith@email.com"
+      ]
+    },
+    "name": "Green Energy",
+    "address": {
+      "street": "456 Oak St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001"
+    }
+  },
+  {
+    "uuid": "c3d4e5f6-7890-1234-ab56-cd78ef901234",
+    "contact": {
+      "personUuid": "345e6789-e89b-12d3-a456-426614174002",
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "phone": "555-9101",
+      "emails": [
+        "michael.johnson@email.com"
+      ]
+    },
+    "name": "Blue Ocean Inc",
+    "address": {
+      "street": "789 Pine St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601"
+    }
+  },
+  {
+    "uuid": "d4e5f678-9012-3456-ab78-cd90ef123456",
+    "contact": {
+      "personUuid": "456e7890-e89b-12d3-a456-426614174003",
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "phone": "555-1122",
+      "emails": [
+        "emily.davis@email.com"
+      ]
+    },
+    "name": "Sunrise Corp",
+    "address": {
+      "street": "159 Elm St",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77001"
+    }
+  },
+  {
+    "uuid": "e5f67890-1234-5678-ab90-cd12ef345678",
+    "contact": {
+      "personUuid": "567e8901-e89b-12d3-a456-426614174004",
+      "firstName": "David",
+      "lastName": "Wilson",
+      "phone": "555-3344",
+      "emails": [
+        "david.wilson@email.com"
+      ]
+    },
+    "name": "NextGen AI",
+    "address": {
+      "street": "753 Cedar St",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85001"
+    }
+  },
+  {
+    "uuid": "f6789012-3456-7890-ab12-cd34ef567890",
+    "contact": {
+      "personUuid": "678e9012-e89b-12d3-a456-426614174005",
+      "firstName": "Emma",
+      "lastName": "Martinez",
+      "phone": "555-5566",
+      "emails": [
+        "emma.martinez@email.com"
+      ]
+    },
+    "name": "Peak Builders",
+    "address": {
+      "street": "951 Birch St",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19101"
+    }
+  },
+  {
+    "uuid": "67890123-4567-8901-ab23-cd45ef678901",
+    "contact": {
+      "personUuid": "789e0123-e89b-12d3-a456-426614174006",
+      "firstName": "James",
+      "lastName": "Brown",
+      "phone": "555-7788",
+      "emails": [
+        "james.brown@email.com"
+      ]
+    },
+    "name": "Nova Labs",
+    "address": {
+      "street": "357 Maple St",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78201"
+    }
+  },
+  {
+    "uuid": "78901234-5678-9012-ab34-cd56ef789012",
+    "contact": {
+      "personUuid": "890e1234-e89b-12d3-a456-426614174007",
+      "firstName": "Olivia",
+      "lastName": "Taylor",
+      "phone": "555-9900",
+      "emails": [
+        "olivia.taylor@email.com"
+      ]
+    },
+    "name": "Quantum Tech",
+    "address": {
+      "street": "268 Spruce St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92101"
+    }
+  },
+  {
+    "uuid": "89012345-6789-0123-ab45-cd67ef890123",
+    "contact": {
+      "personUuid": "901e2345-e89b-12d3-a456-426614174008",
+      "firstName": "Daniel",
+      "lastName": "Anderson",
+      "phone": "555-2233",
+      "emails": [
+        "daniel.anderson@email.com"
+      ]
+    },
+    "name": "Skyline Solutions",
+    "address": {
+      "street": "649 Aspen St",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75201"
+    }
+  },
+  {
+    "uuid": "90123456-7890-1234-ab56-cd78ef901234",
+    "contact": {
+      "personUuid": "012e3456-e89b-12d3-a456-426614174009",
+      "firstName": "Sophia",
+      "lastName": "Thomas",
+      "phone": "555-4455",
+      "emails": [
+        "sophia.thomas@email.com"
+      ]
+    },
+    "name": "Future Industries",
+    "address": {
+      "street": "874 Walnut St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94101"
+    }
+  }
+]

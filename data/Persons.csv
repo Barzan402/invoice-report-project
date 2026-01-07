@@ -1,0 +1,11 @@
+uuid,firstName,lastName,phone,email(s)
+123e4567-e89b-12d3-a456-426614174000,John,Doe,555-1234,john.doe@email.com
+234e5678-e89b-12d3-a456-426614174001,Jane,Smith,555-5678,jane.smith@email.com
+345e6789-e89b-12d3-a456-426614174002,Michael,Johnson,555-9101,michael.johnson@email.com
+456e7890-e89b-12d3-a456-426614174003,Emily,Davis,555-1122,emily.davis@email.com
+567e8901-e89b-12d3-a456-426614174004,David,Wilson,555-3344,david.wilson@email.com
+678e9012-e89b-12d3-a456-426614174005,Emma,Martinez,555-5566,emma.martinez@email.com
+789e0123-e89b-12d3-a456-426614174006,James,Brown,555-7788,james.brown@email.com
+890e1234-e89b-12d3-a456-426614174007,Olivia,Taylor,555-9900,olivia.taylor@email.com
+901e2345-e89b-12d3-a456-426614174008,Daniel,Anderson,555-2233,daniel.anderson@email.com
+012e3456-e89b-12d3-a456-426614174009,Sophia,Thomas,555-4455,sophia.thomas@email.com

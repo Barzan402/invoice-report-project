@@ -1,0 +1,11 @@
+uuid,type,name,field(s)
+2a0bf7d0-c956-423c-bc35-6dc7e5a88b09,E,Excavator,XC200,350000
+efd140db-c91c-4997-9081-3786917eb679,E,Cranes,CRX500,480000
+7464e7c7-5b35-4074-97d3-96328252cb3b,E,Forklift,FL250,18000
+36809e58-0a08-416d-9b35-91cb2837f04b,E,Backhoe,BH450,75000
+4efed16c-03e9-43ea-b2b7-3a9531b44cde,M,Cement,bag,50
+574cfde6-52e9-4c80-8cc7-3ba48d1b3e6d,M,Steel Beams,ton,1200
+4e46d764-20df-4ec6-933f-f90472dbc7c3,M,Wood Panels,sheet,45
+4226957b-bc61-4087-8d74-b80db880e9aa,C,Building Foundation,a1b2c3d4-e5f6-7890-ab12-cd34ef567890
+0fbde602-abde-4b2b-afd4-a663e5f5d1d1,C,Office Wiring,b2c3d4e5-f678-9012-ab34-cd56ef789012
+ce427c9b-9127-48f1-8541-ead071a1031a,C,Concrete Pouring,c3d4e5f6-7890-1234-ab56-cd78ef901234
